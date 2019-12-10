@@ -8,4 +8,5 @@ import com.ticketbooking.entity.Ticket;
 @Repository
 public interface TicketRepository extends JpaRepository<Ticket, Long>{
 
+
 }
