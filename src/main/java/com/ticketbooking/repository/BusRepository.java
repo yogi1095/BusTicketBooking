@@ -7,5 +7,7 @@ import com.ticketbooking.entity.Bus;
 
 @Repository
 public interface BusRepository extends JpaRepository<Bus, Integer>{
+	
+	
 
 }
